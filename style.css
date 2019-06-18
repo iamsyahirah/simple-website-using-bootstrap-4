@@ -1,0 +1,14 @@
+.image .image1 {
+    height: 200px;
+    width:50%;
+    background: #aaa;
+} 
+
+.image1 {
+    float: left;
+}
+
+.image2 {
+    float: right;
+}
+
